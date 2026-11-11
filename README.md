@@ -125,7 +125,7 @@ MIT License
 
 ## 作者
 
-颜建霖
+顔建霖
 
 GitHub:
 
