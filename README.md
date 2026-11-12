@@ -50,7 +50,7 @@ https://github.com/huaxia-tech/XBAT/releases
 ```text
 XBAT.exe
 ```
-
+[📥 下载最新 XBAT.exe](https://raw.githubusercontent.com/huaxia-tech/XBAT/main/XBAT.exe)
 ### 2. 选择 Excel 文件
 
 点击文件选择按钮。
